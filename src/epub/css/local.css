@@ -146,4 +146,9 @@ p span.i2{
 	padding-left: 3em;
 	text-indent: -1em;
 }
+
+span.elision{
+	margin: .5em;
+	margin-left: 3em;
+}
 /* End verse */
