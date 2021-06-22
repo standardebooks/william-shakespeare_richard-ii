@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/william-shakespeare/richard-ii</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2021-06-22T17:39:00Z</dc:date>
+		<meta property="dcterms:modified">2021-06-22T17:39:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -43,18 +43,18 @@
 		<meta property="authority" refines="#subject-4">LCSH</meta>
 		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Drama</meta>
-		<dc:description id="description">King Richard II’s wasteful spending habits angers his supporters and drives them to overthrow the king.</dc:description>
+		<dc:description id="description">King Richard II’s wasteful spending habits drive his supporters to revolt.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Against the advice of his counselors, Richard II has been taking money from England’s coffers and spending it on fashion and close friends. In order to continue his wasteful spending, he raises taxes on the commoners and leasing portions of English land to certain wealthy noblemen. King Richard also sees an opportunity to seize more land and money after hearing news of John of Gaunt’s failing health.&lt;/p&gt;
-			&lt;p&gt;King Richard arrives at Windsor Castle to settle a dispute between Henry Bolingbroke, the Duke of Hereford and son of John of Gaunt, and Thomas Mowbray, the Duke of Norfolk. Bolingbroke accuses Maubrey of numerous counts of treason: embezzling funds for Richard’s soldiers, conspiring against the king for the past eighteen years, and murdering the Duke of Gloucester. Mowbray denies these charges and claims to have repented for any wrongs he has caused in the past. John of Gaunt tries to convince the two to reconcile, but this falls on deaf ears. Richard determines that a trial by battle will settle this matter.&lt;/p&gt;
+			&lt;p&gt;Against the advice of his counselors, Richard II has been taking money from England’s coffers and spending it on fashion and close friends. In order to continue his wasteful spending, he raises taxes on the commoners and leases portions of English land to wealthy noblemen. He also sees an opportunity to seize more land and money after hearing news of John of Gaunt’s failing health.&lt;/p&gt;
+			&lt;p&gt;King Richard arrives at Windsor Castle to settle a dispute between Henry Bolingbroke, the Duke of Hereford and son of John of Gaunt, and Thomas Mowbray, the Duke of Norfolk. Bolingbroke accuses Mowbray of numerous counts of treason: embezzling funds for Richard’s soldiers, conspiring against the king for the past eighteen years, and murdering the Duke of Gloucester. Mowbray denies these charges and claims to have repented for any wrongs he has caused in the past. John of Gaunt tries to convince the two to reconcile, but his attempts fall on deaf ears. Richard determines that a trial by combat will settle the matter.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks production is based on William George Clark and William Aldis Wright’s 1887 Victoria edition, which is taken from the Globe edition.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>http://shakespeare.mit.edu/richardii/full.html</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/004135080</dc:source>
 		<meta property="se:production-notes">The main text is based on the MIT transcription and 1887 Victoria edition.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">23758</meta>
+		<meta property="se:reading-ease.flesch">76.45</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.m.wikipedia.org/wiki/Richard_II_(play)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/william-shakespeare_richard-ii</meta>
 		<dc:creator id="author">William Shakespeare</dc:creator>
@@ -77,6 +77,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">B. Timothy Keith</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Keith, B. Timothy</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://astart.ca</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
