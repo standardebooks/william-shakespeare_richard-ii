@@ -30,6 +30,8 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Richard II</dc:title>
 		<meta property="file-as" refines="#title">Richard II</meta>
+		<meta property="se:alternate-title" refines="#title">Richard the 2nd</meta>
+		<meta property="se:alternate-title" refines="#title">Richard the Second</meta>
 		<dc:subject id="subject-1">Richard II, King of England, 1367-1400 -- Drama</dc:subject>
 		<dc:subject id="subject-2">Tragedies</dc:subject>
 		<dc:subject id="subject-3">Historical drama</dc:subject>
@@ -45,6 +47,9 @@
 		<meta id="collection-1" property="belongs-to-collection">The Henriad</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
+		<meta id="collection-2" property="belongs-to-collection">Shakespeare’s Second Tetralogy</meta>
+		<meta property="collection-type" refines="#collection-2">set</meta>
+		<meta property="group-position" refines="#collection-2">1</meta>
 		<meta property="se:subject">Drama</meta>
 		<dc:description id="description">King Richard II’s wasteful spending habits drive his supporters to revolt.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
