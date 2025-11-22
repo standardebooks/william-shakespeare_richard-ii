@@ -29,8 +29,8 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Richard II</dc:title>
 		<meta property="file-as" refines="#title">Richard II</meta>
-		<meta property="dcterms:alternate" refines="#title">Richard the 2nd</meta>
-		<meta property="dcterms:alternate" refines="#title">Richard the Second</meta>
+		<meta property="dcterms:alternative" refines="#title">Richard the 2nd</meta>
+		<meta property="dcterms:alternative" refines="#title">Richard the Second</meta>
 		<dc:subject id="subject-1">Richard II, King of England, 1367-1400 -- Drama</dc:subject>
 		<dc:subject id="subject-2">Tragedies</dc:subject>
 		<dc:subject id="subject-3">Historical drama</dc:subject>
