@@ -32,10 +32,10 @@
 		<meta property="file-as" refines="#title">Richard II</meta>
 		<meta property="dcterms:alternative" refines="#title">Richard the 2nd</meta>
 		<meta property="dcterms:alternative" refines="#title">Richard the Second</meta>
-		<dc:subject id="subject-1">Richard II, King of England, 1367-1400 -- Drama</dc:subject>
+		<dc:subject id="subject-1">Richard II, King of England, 1367-1400--Drama</dc:subject>
 		<dc:subject id="subject-2">Tragedies</dc:subject>
 		<dc:subject id="subject-3">Historical drama</dc:subject>
-		<dc:subject id="subject-4">Great Britain -- History -- Richard II, 1377-1399 -- Drama</dc:subject>
+		<dc:subject id="subject-4">Great Britain--History--Richard II, 1377-1399--Drama</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
